@@ -1,1 +1,1 @@
-# .github
+# Learn Like Me (LLM)
