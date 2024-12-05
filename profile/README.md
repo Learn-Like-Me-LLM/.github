@@ -1,12 +1,8 @@
-## Hi there 👋
+# Learn Like Me (LLM)
 
-<!--
+## Description
+This repo was created as a place for me to track educational topics I am covering as I approach graduate school. 
 
-**Here are some ideas to get you started:**
+## Inspiration
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This repo is heavily inspired by the set of [Awesome repos on Github](https://github.com/topics/awesome-list)
